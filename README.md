@@ -1,4 +1,7 @@
 # E02a-Operators
+
+Within main.py, each function has has code added to them to perform their required outputs, using both operators and built-in functions. Each functions returns different values including strings, ints, floats, and lists. 
+
 An exercise exploring python operators and data types
 
 This repository contains a few files that you will need to alter to complete the assignment. The instructions for the exercise are also on Canvas.
